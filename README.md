@@ -17,7 +17,7 @@ Congratulations to the three early-career award recipients:
 [Here is the Google Doc](https://docs.google.com/document/d/1ZE1-bhVjoflEk63KQHFIdrO3gg-OrrudH_GDALBLUmI/edit) with notes from the open discussion from 12:20 to 13:30 on Friday, September 20.
 
 ### Tutorials
-[Here are the slides](https://github.com/mbobra/my-presentations/blob/master/Helio-ML_Tutorial_Bobra.pdf) from the second tutorial on machine learning, which covered these topics: 
+[Here are the slides](https://zenodo.org/record/3724703) from the second tutorial on machine learning, which covered these topics: 
 * Resources for machine learning in heliophysics and astrophysics
 * Open source software for machine learning, parallel computing, and heliophysics, and 
 * Best practices for scientific reproducibility (how to publish research code and how to publish open source software).
